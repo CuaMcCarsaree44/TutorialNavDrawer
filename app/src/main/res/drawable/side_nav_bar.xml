@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!--Change Warna Tema #1-->
+    <gradient
+        android:angle="135"
+        android:centerColor="#787878"
+        android:endColor="#787878"
+        android:startColor="#787878"
+        android:type="linear" />
+</shape>
